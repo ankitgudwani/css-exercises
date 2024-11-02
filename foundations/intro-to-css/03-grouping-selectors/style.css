@@ -1,0 +1,15 @@
+.class1
+{
+    background-color: #000;
+    color: #fff;
+}
+.class2
+{
+    background-color: yellow;
+    color: #000;
+}
+.class1,.class2
+{
+    font-size: 24px;
+    font-family: "times new roman", sans-serif;
+}
